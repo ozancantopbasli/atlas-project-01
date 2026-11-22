@@ -1,0 +1,13 @@
+﻿RequirementID,TestID,ExpectedResult,Status
+P01-FR-01,P01-TEST-01,Valid UTF-8 file is accepted,DRAFT
+P01-FR-02,P01-TEST-02,Levels are classified correctly,DRAFT
+P01-FR-03,P01-TEST-03,File errors return defined exit codes,DRAFT
+P01-FR-04,P01-TEST-04,JSON report matches expected values,DRAFT
+P01-FR-05,P01-TEST-05,Invalid lines are counted correctly,DRAFT
+P01-FR-06,P01-TEST-06,CLI arguments and help work correctly,DRAFT
+P01-NFR-01,P01-TEST-NFR-01,Performance baseline is recorded,DRAFT
+P01-NFR-02,P01-TEST-NFR-02,Sensitive information is not exposed,DRAFT
+P01-NFR-03,P01-TEST-NFR-03,Clean installation and tests succeed,DRAFT
+P01-NFR-04,P01-TEST-NFR-04,Repeated execution is deterministic,DRAFT
+P01-NFR-05,P01-TEST-NFR-05,Automated test suite passes,DRAFT
+P01-NFR-06,P01-TEST-NFR-06,Maintenance quality checks pass,DRAFT
